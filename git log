@@ -1,0 +1,30 @@
+[33mcommit e44e2e8b1ae5542afb5c641ba1d89997f64b7f95[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 89c1019 47467fc
+Author: shamim96 <shamimsrdr594@gmail.com>
+Date:   Fri Jul 13 19:52:07 2018 +0600
+
+    marge subCategory directly
+
+[33mcommit 89c1019fbd654bea6c12cb05eaa28afeedee8fa6[m
+Author: shamim96 <shamimsrdr594@gmail.com>
+Date:   Fri Jul 13 19:45:10 2018 +0600
+
+    pages added
+
+[33mcommit 47467fcf589256a4a893c0b833ad248a932879c6[m[33m ([m[1;32msubCategory[m[33m)[m
+Author: shamim96 <shamimsrdr594@gmail.com>
+Date:   Fri Jul 13 19:43:13 2018 +0600
+
+    sub category added
+
+[33mcommit dd2a6c9408874b17572c2bde678b7693baeb8aaa[m[33m ([m[1;32mcategory[m[33m)[m
+Author: shamim96 <shamimsrdr594@gmail.com>
+Date:   Fri Jul 13 19:41:11 2018 +0600
+
+    category added
+
+[33mcommit 8f55f106d64f3a4174a6572c90daf392c1446899[m
+Author: shamim96 <shamimsrdr594@gmail.com>
+Date:   Fri Jul 13 19:40:21 2018 +0600
+
+    index added
